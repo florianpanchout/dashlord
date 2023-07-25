@@ -158,7 +158,7 @@ urls:
     betaId: plateforme.impact
   - url: https://impactco2.fr
     category: startup
-    betaId: impact
+    betaId: impact.co2
   - url: https://kelrisks.beta.gouv.fr
     category: startup
     betaId: kelrisks
